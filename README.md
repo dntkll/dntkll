@@ -1,0 +1,1 @@
+print('taplink.cc/dntkll')
